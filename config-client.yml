@@ -1,1 +1,8 @@
-name=config-client
+server:
+  port: 7777
+  
+spring:
+  application:
+    name: config-client
+    
+name: config-client-default
